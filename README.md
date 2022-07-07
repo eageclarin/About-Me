@@ -19,8 +19,7 @@ Eigram {
     hometown: "Paoay, Ilocos Norte";
     dailyFormats: [".php", ".js", ".html", ".css", ".sql", ".java", ".psd", ".ai", ".prproj"];
     currentlyWorkingOn: "A POS System";
-    latestWork: "(https://www.facebook.com/taguipuropaoaylakeresort/posts/pfbid02CW2HBfZb3mUYp27dqXWdrt2YpP1LfkemPmZNdNTg8wqN2dW3HVZznqckubZy7xgcl)";
-}
+ }
 ```
 #### Why did I choose Computer Science?
 > I enjoy programming (but in some languages only). As a kid I wanted to build robots. I wanted to know how they were able to move and talk like a human. Though until now, I still haven't tried building one since I don't have the right equipments. I was in High School when I first learned my language– C++. At that time I still wasn't interested. The next school year, we learned about Visual Basic and that's when I started to enjoy programming. We were in our 4th Year and my love for CMSC just started to grow. We learned about HTML and basic CSS. Comparing the websites I've made before and now, I'm proud of how far I've come. I could really see myself as a Computer Science major.
