@@ -9,7 +9,7 @@
 [![LinkedIn: Eigram Eclarin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eigrameclarin/)
 [![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](behance.net/eigrameclarin)
 
-<img src="https://i.im.ge/2021/09/18/TPDFqG.png" align="right" height="250px">
+<img src="https://i.im.ge/2021/09/18/TPDFqG.png](https://ibb.co/18wc00X)" align="right" height="250px">
 
 ### About Me 📝
 ```css
