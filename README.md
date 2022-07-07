@@ -6,6 +6,8 @@
 [![Instagram: dreeya_](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dreeya_)
 [![Twitter: eage_](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/eage_)
 [![Youtube: Eigram Eclarin](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC8nm1Hw7z-a7vb6iJtQ4Ghw)
+[![LinkedIn: Eigram Eclarin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eigrameclarin/)
+![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](behance.net/eigrameclarin)
 
 <img src="https://i.im.ge/2021/09/18/TPDFqG.png" align="right" height="250px">
 
